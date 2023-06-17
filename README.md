@@ -1,3 +1,5 @@
-# feup-BDAD
+# FEUP-BDAD
 
-Repository containing the final delivery of the project for the Databases course unit at FEUP.
+Project of the Databases course unit at FEUP.
+
+[**BDAD Unit Info**](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484405)
